@@ -1,0 +1,6 @@
+{
+  "name": "RideGrid Dispatch",
+  "description": "Interactive ride-sharing dispatch command center powered by OOP design patterns (Singleton, Builder, State, Strategy, Observer) and live Google Maps localities.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
